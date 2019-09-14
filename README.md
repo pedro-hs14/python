@@ -1,6 +1,6 @@
 # Python
 
-## Repositório destinado aos exercícios do Curso de Python do _Curso em Video_. 
+### Repositório destinado aos exercícios do Curso de Python do _Curso em Video_. 
 
 > Now is better than never.
 > Although never is often better than *right* now.
@@ -9,6 +9,7 @@
 
 #### Mundo 1: Fundamentos
 
-- [] 001
-- [] 002
+- [x] 001
+- [x] 002
+- [x] 003
 
